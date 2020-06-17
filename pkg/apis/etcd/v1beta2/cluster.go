@@ -23,8 +23,8 @@ import (
 )
 
 const (
-	defaultRepository  = "quay.io/coreos/etcd"
-	DefaultEtcdVersion = "3.2.13"
+	defaultRepository  = "etcd"
+	DefaultEtcdVersion = "3.9.4"
 )
 
 var (
